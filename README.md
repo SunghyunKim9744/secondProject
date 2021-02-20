@@ -31,7 +31,7 @@
 
 <img src="https://user-images.githubusercontent.com/72851584/108593192-ba7d9800-73b5-11eb-8f63-9bdc0b8845c6.png" width="80%">
 
-:arrow_forward: 프로젝트와 스터디 목록으로 이동후
+:arrow_forward: 프로젝트와 스터디 목록으로 이동 후
 
 <img src="https://user-images.githubusercontent.com/72851584/108594540-ef8de880-73bd-11eb-8dd9-6473511af543.png" width="80%">
 
